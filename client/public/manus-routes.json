@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "Dashboard" },
+    { "path": "/students", "title": "Students" },
+    { "path": "/subjects", "title": "Subjects" },
+    { "path": "/marks", "title": "Marks Entry" },
+    { "path": "/results", "title": "Results" },
+    { "path": "/reports", "title": "Reports" },
+    { "path": "/analytics", "title": "Analytics" },
+    { "path": "/settings", "title": "Settings" },
+    { "path": "/users", "title": "User Management" }
+  ]
+}
